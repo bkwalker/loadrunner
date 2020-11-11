@@ -1,0 +1,8 @@
+[09:57:54.33] Debug: Running build Release_2020.2.0_1761 on windows
+[09:57:54.34] Info: Starting initialize.
+[09:57:54.34] Info: Ending initialize.
+[09:57:54.35] Info: Starting iteration 1.
+[09:57:54.36] Info: Hello DevWeb	(./main.js:5:10)
+[09:57:54.36] Info: Ending iteration 1.
+[09:57:54.36] Info: Starting finalize.
+[09:57:54.37] Info: Ending finalize.
